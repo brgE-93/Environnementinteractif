@@ -1,0 +1,18 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class CutTreebehaviour : MonoBehaviour {
+	static Animator m_Animator;
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	//ne pas oublier de freeze rotation et position du rigidbody de nos IA dans les scripts d'avant .
+	void Update () {
+		m_Animator.Play ("Mutant Swiping");
+
+
+	}
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\teleport.cs">
+    <Files>
+      <File FileName="Assets\Medieval_House\Scripts\OpenDoor.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shootprojectil.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Flocking.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PutOutFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\collisionparticle.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShootBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\NPCMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\RandomAIWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\Pathfinding.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DayNightCycle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\triggerbutterfly.cs" Line="1" Column="1" />
+      <File FileName="Assets\KillButterfly.cs" Line="1" Column="1" />
+      <File FileName="Assets\IA\CutTreebehaviour.cs" Line="9" Column="3" />
+      <File FileName="Assets\AnimationController.cs" Line="49" Column="40" />
+      <File FileName="Assets\IA\PickUpBehaviour.cs" Line="8" Column="41" />
+      <File FileName="Assets\Scripts\teleport.cs" Line="15" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\3261007\Desktop\test\Assets\PutOutFire.cs" line="53" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

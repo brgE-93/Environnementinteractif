@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7e70f18de44d4e46996f50a661e2cf5
+timeCreated: 1511967574
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - butterfly: {fileID: 100004, guid: ad5878248fac71a48aa469475023f88a, type: 2}
+  - goalPreFab: {instanceID: 0}
+  - ethan: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

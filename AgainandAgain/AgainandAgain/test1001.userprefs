@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IA\EthanPlayer.cs">
+    <Files>
+      <File FileName="Assets\IA\PatrollingBehaviour.cs" Line="53" Column="46" />
+      <File FileName="Assets\IA\DestinationBehavior.cs" Line="7" Column="55" />
+      <File FileName="Assets\IA\IARoot.cs" Line="16" Column="32" />
+      <File FileName="Assets\IA\AttackBehaviour.cs" Line="41" Column="124" />
+      <File FileName="Assets\IA\IAHumanController.cs" Line="27" Column="2" />
+      <File FileName="Assets\IA\GeneralIABehaviours.cs" Line="4" Column="33" />
+      <File FileName="Assets\IA\EthanPlayer.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\PopUp.cs" Line="25" Column="15" />
+      <File FileName="Assets\Scripts\Flock.cs" Line="71" Column="3" />
+      <File FileName="Assets\Scripts\Flocking.cs" Line="53" Column="4" />
+      <File FileName="Assets\Scripts\PickUpIA.cs" Line="6" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
